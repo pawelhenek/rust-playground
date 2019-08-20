@@ -1,4 +1,4 @@
-name: Checking if everything is okay
+name: Checking if everything is working properly
 
 on: [push]
 
