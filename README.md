@@ -4,6 +4,9 @@ Rust playground
 ![Actions status](https://action-badges.now.sh/pawelhenek/rust-playground)
 
 ### Quick start
+`git clone https://github.com/pawelhenek/rust-playground.git`
+
+`cd rust-playground`
 
 `cargo build`
 
@@ -11,7 +14,7 @@ Rust playground
 
 `cargo run`
 
-### Verified with
+### Locally verified with
 
 `rustc --version`
 
