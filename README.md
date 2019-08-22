@@ -6,6 +6,8 @@ Rust playground
 
 #### Prerequisites
 
+Installed Rust (https://www.rust-lang.org/tools/install)
+
 ### Quick start
 `git clone https://github.com/pawelhenek/rust-playground.git`
 
