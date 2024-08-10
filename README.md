@@ -1,9 +1,6 @@
 Rust playground
 ===
 
-![Actions status](https://action-badges.now.sh/pawelhenek/rust-playground)
-![Actions status](http://aliyunfc.tarocch1.com/github-actions-badge/pawelhenek/rust-playground)
-
 #### Prerequisites
 
 Installed Rust (https://www.rust-lang.org/tools/install)
@@ -23,4 +20,4 @@ Installed Rust (https://www.rust-lang.org/tools/install)
 
 `rustc --version`
 
-`rustc 1.31.0 (abe02cefd 2018-12-04)`
+`rustc 1.76.0 (07dca489a 2024-02-04)`
